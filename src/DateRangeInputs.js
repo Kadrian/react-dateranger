@@ -64,8 +64,8 @@ const FormatIndicator = styled("p")`
 
 const Right = styled("div")`
   position: absolute;
-  right: 34px;
-  top: 17px;
+  right: 15px;
+  top: 22px;
 `;
 
 const Buttons = styled("div")`
