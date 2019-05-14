@@ -1,3 +1,7 @@
+# react-dateranger
+
+An opinionated full-screen approach to date picking
+
 ## Status & Next steps
 
 Status: Right now, this is just a create-react-app that explores date picking
