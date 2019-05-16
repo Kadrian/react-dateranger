@@ -4,6 +4,10 @@ An opinionated full-screen approach to date picking
 
 ![Screenshot](screenshots/full-1.png)
 
+## Demo
+
+https://react-dateranger.netlify.com/
+
 ## Status & Next steps
 
 Status: Right now, this is just a create-react-app that explores date picking
@@ -28,4 +32,5 @@ Contributions are welcome.
 
 ## License
 
-MIT
+[MIT](README.md)
+
